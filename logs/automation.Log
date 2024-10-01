@@ -1,0 +1,55 @@
+14:47:02.924 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+14:47:03.865 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+14:47:03.919 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+14:47:11.008 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+14:47:11.358 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+14:47:11.388 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+15:10:04.826 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+15:10:05.283 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+15:10:07.461 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+15:10:07.532 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+15:10:19.777 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+15:10:20.226 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+15:10:20.282 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+15:42:30.206 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+15:42:30.635 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+15:42:31.880 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+15:42:31.943 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+15:42:46.281 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+15:42:46.720 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+15:42:46.766 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+13:27:40.054 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+13:27:40.370 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+13:27:41.487 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+13:27:41.538 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+13:27:48.129 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+13:27:48.498 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+13:27:48.535 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+13:45:23.783 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+13:45:24.082 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+13:45:25.207 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+13:45:25.249 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+13:45:30.865 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+13:45:31.202 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+13:45:31.234 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+13:58:39.141 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+13:58:39.454 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+13:58:40.794 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+13:58:40.845 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+13:58:44.346 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+13:58:44.684 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+13:58:44.722 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+14:11:45.775 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+14:11:46.054 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+14:11:47.292 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+14:11:47.355 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+14:11:52.831 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+14:11:53.158 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+14:11:53.196 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****
+14:28:02.627 [main] INFO  testcass.TC001_LoginSuccseefully - starting the testcase ***
+14:28:02.884 [main] INFO  testcass.TC001_LoginSuccseefully - Enter credentionals***
+14:28:04.077 [main] INFO  testcass.TC001_LoginSuccseefully - clicking on login***
+14:28:04.130 [main] INFO  testcass.TC001_LoginSuccseefully - Test case finished ****
+14:28:11.219 [main] INFO  testcass.TC002_LoginUNSuccsessfully - starting the testcase ***
+14:28:11.642 [main] INFO  testcass.TC002_LoginUNSuccsessfully - validating the error message ***
+14:28:11.707 [main] INFO  testcass.TC002_LoginUNSuccsessfully - Test case finished ****

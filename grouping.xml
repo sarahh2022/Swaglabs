@@ -1,0 +1,29 @@
+<?xml version ="1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite1" verbose="1">
+    
+    <groups>
+            <run>
+                <include name="Master"/>
+            </run>
+        </groups>
+
+
+    <listeners>
+        <listener class-name="utalities.CorrectExtentReport"/>
+    </listeners>
+
+
+    <test name="Test2">
+
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="Chrome"/>
+
+        <classes>
+            <class name="testcass.TC001_LoginSuccseefully"/>
+            <class name="testcass.TC002_LoginUNSuccsessfully"/>
+
+        </classes>
+    </test>
+</suite>
